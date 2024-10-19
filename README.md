@@ -1,3 +1,3 @@
 # my-demo
 my first repository
-Auther - Neha sundavadrab
+Auther - Neha sundavadra
